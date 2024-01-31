@@ -8,3 +8,7 @@
 1. 배열조각하기
 2. 다항식 더하기
 
+<img width="253" alt="image" src="https://github.com/JGH94/Level_0/assets/41178868/b830ad8b-1c9f-460b-87df-c678e79bae51">
+
+기초 Level 0은 모두 풀어봤습니다.
+기초문제라 소스는 더이상 업로드 하지않았습니다.
